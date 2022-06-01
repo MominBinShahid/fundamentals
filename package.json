@@ -1,0 +1,14 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "Algorithms and Data Structures",
+  "keywords": ["algo", "algorithms", "datastructure"],
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
